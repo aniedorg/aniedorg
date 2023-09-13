@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aniedorg/static/css/main.073c9b0a.css",
+    "main.js": "/aniedorg/static/js/main.f84b29b2.js",
+    "static/js/787.8c844f79.chunk.js": "/aniedorg/static/js/787.8c844f79.chunk.js",
+    "service-worker.js": "/aniedorg/service-worker.js",
+    "static/media/logo.svg": "/aniedorg/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/aniedorg/index.html",
+    "main.073c9b0a.css.map": "/aniedorg/static/css/main.073c9b0a.css.map",
+    "main.f84b29b2.js.map": "/aniedorg/static/js/main.f84b29b2.js.map",
+    "787.8c844f79.chunk.js.map": "/aniedorg/static/js/787.8c844f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f84b29b2.js"
+  ]
+}
